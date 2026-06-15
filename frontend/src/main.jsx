@@ -24,7 +24,7 @@ function App() {
         <p className="eyebrow">Getting Started with DevOps</p>
         <h1>Deployment Status Dashboard</h1>
         <p className="subtitle">
-          A tiny React frontend talking to a Python backend.
+          welcome to the devops session
         </p>
       </section>
 
