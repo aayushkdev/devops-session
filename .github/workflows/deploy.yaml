@@ -3,7 +3,7 @@ name: Ci/CD Devops Session
 on:
   push:
     branches:
-      -main
+      - main
 
 jobs:
   ci:
