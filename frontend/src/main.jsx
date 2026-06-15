@@ -24,7 +24,7 @@ function App() {
         <p className="eyebrow">Getting Started with DevOps</p>
         <h1>Deployment Status Dashboard</h1>
         <p className="subtitle">
-          welcome to the devops session
+          GDG SESSION
         </p>
       </section>
 
